@@ -8,6 +8,7 @@ import org.springframework.web.client.RestTemplate;
 @Controller
 public class ConsumeRestAPIController {
 
+
     @Autowired
     private RestTemplate restTemplate;
 
